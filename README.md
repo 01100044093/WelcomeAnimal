@@ -12,12 +12,15 @@ github：https://github.com/w446108264/XhsWelcomeAnim
 
 所以我分析了一下代码，将一个动画提取了出来，做成了单独库
 这是代码：
+```java
         /**
          * rl_parent 出现的布局
          * iv_logo 变小的图片
          */
       new AnimalUtul(this,rl_parent,iv_logo);
-复制代码
+      
+      
+```
 
 
 实现的效果（作者，我直接拿你素材）：
